@@ -1,2 +1,3 @@
-# open_source_gis_learn
-记录开源gis研究的过程记录
+# study_notes
+学习过程中的记录
+开源gis研究的过程记录
